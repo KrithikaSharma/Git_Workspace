@@ -1,5 +1,3 @@
 This is line1 rebuilt file after rm -f
 
 Changes made from Browser by central repository
-
-changes made from remotebranch
